@@ -1,0 +1,25 @@
+[
+  {
+    "name": "ChatGPT",
+    "poweredBy": "From OpenAI",
+    "description": "Conversation, Coding, Writing",
+    "baseUrl": "https://chatgpt.com",
+    "queryParam": "?q="
+  },
+  {
+    "name": "Grok",
+    "poweredBy": "From xAI",
+    "description": "Real-Time News, X Integration",
+    "baseUrl": "https://grok.com",
+    "queryParam": "?q="
+  },
+  {
+    "name": "Gemini",
+    "poweredBy": "From Google",
+    "description": "Search, Reasoning, Coding",
+    "baseUrl": "https://gemini.google.com",
+    "queryParam": "?q="
+  }
+  
+]
+     
