@@ -3,23 +3,54 @@
     "name": "ChatGPT",
     "poweredBy": "From OpenAI",
     "description": "Conversation, Coding, Writing",
-    "baseUrl": "https://chatgpt.com",
-    "queryParam": "?q="
+    "url": "https://chatgpt.com"
   },
   {
     "name": "Grok",
     "poweredBy": "From xAI",
     "description": "Real-Time News, X Integration",
-    "baseUrl": "https://grok.com",
-    "queryParam": "?q="
+    "url": "https://grok.com"
+  },
+  {
+    "name": "Mistral",
+    "poweredBy": "From Mistral AI",
+    "description": "Fast, Lightweight Tasks",
+    "url": "https://chat.mistral.ai/chat"
   },
   {
     "name": "Gemini",
     "poweredBy": "From Google",
     "description": "Search, Reasoning, Coding",
-    "baseUrl": "https://gemini.google.com",
-    "queryParam": "?q="
+    "url": "https://gemini.google.com/"
+  },
+  {
+    "name": "Copilot",
+    "poweredBy": "From Microsoft",
+    "description": "Coding, Live Code Suggestions",
+    "url": "https://copilot.microsoft.com"
+  },
+  {
+    "name": "Perplexity",
+    "poweredBy": "From Perplexity AI",
+    "description": "Search, Research",
+    "url": "https://www.perplexity.ai/"
+  },
+  {
+    "name": "Meta AI",
+    "poweredBy": "From Meta AI",
+    "description": "Image Generation, Reasoning",
+    "url": "https://www.meta.ai/"
+  },
+  {
+    "name": "Claude",
+    "poweredBy": "From Anthropic",
+    "description": "Reasoning, Long Documents",
+    "url": "https://claude.ai/new"
+  },
+  {
+    "name": "Deepseek",
+    "poweredBy": "From Deepseek",
+    "description": "Coding, Multilingual Tasks",
+    "url": "https://chat.deepseek.com/"
   }
-  
 ]
-     
